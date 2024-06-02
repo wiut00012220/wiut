@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\WebApplication1.exe
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\appsettings.json
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\WebApplication1.dll
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\WebApplication1.deps.json
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\WebApplication1.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\WebApplication1.pdb
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive\Desktop\WebApplication1\app\Swashbuckle.AspNetCore.SwaggerUI.dll
